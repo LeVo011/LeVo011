@@ -43,8 +43,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/LeVo011/LeVo011/output/snake.svg" alt="Snake animation" />
-
-###
