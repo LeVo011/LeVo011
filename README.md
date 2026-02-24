@@ -20,7 +20,7 @@
 ### `> whoami`
 
 ```python
-class LavanayShaarma:
+class LavanaySharma:
     handle      = "LeVo011"
     location    = "New Delhi, India 📍"
     role        = "AI / ML Engineer"
