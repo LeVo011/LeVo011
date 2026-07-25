@@ -48,7 +48,7 @@ class LavanaySharma:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23ff006e?style=flat-square&logo=pytorch&logoColor=fff)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23ffbe0b?style=flat-square&logo=huggingface&logoColor=050810)
 ![LangChain](https://img.shields.io/badge/LangChain-%2300f5ff?style=flat-square&logo=chainlink&logoColor=050810)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23ff006e?style=flat-square&logo=openai&logoColor=fff)
+![GROQAI](https://img.shields.io/badge/GROQ-%23ff006e?style=flat-square&logo=GROQ&logoColor=fff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300f5ff?style=flat-square&logo=fastapi&logoColor=050810)
 ![NumPy](https://img.shields.io/badge/NumPy-%23ffbe0b?style=flat-square&logo=numpy&logoColor=050810)
 ![Pandas](https://img.shields.io/badge/Pandas-%23ff006e?style=flat-square&logo=pandas&logoColor=fff)
