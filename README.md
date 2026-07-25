@@ -27,7 +27,7 @@ class LavanaySharma:
     status      = "ONLINE ✦"
 
     stack       = ["Python", "PyTorch", "LangChain",
-                   "HuggingFace", "OpenAI API", "FastAPI"]
+                   "HuggingFace", "GROQ API", "FastAPI"]
 
     interests   = ["LLM Agents", "RAG Systems",
                    "Reinforcement Learning", "ML Pipelines"]
